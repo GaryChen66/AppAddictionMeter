@@ -1,0 +1,176 @@
+{
+    "first_app_group": {
+        "category_heading": "Most Popular",
+        "heading2": "Most Addicting IOS Apps This week",
+        "item_list": [
+            {
+                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
+                "app_name": "Shit-Lift to music, rest to podcasts",
+                "app_description": "Lift to music rest to podcasts"
+            },
+            {
+                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
+                "app_name": "Bunch Group Video Chat & Games",
+                "app_description": "Play Live Games with Friends"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/bunch-group-video-chat-games/id1294869021",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dd77cd6b9c85cf7587c9d59_Bunch Icon.png",
+                "app_name": "AirtimeL Watch Videos Together",
+                "app_description": "The App for Best Friends"
+            },
+            {
+                "link": "https://brb.chat/?ref=APAS",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe590d5ad64f3fe1836df0_brb twitter logo.png",
+                "app_name": "Spkr. - The Best Podcasts",
+                "app_description": "Always On Audio & Podcasts"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
+                "app_name": "Brb - Voice Messenger",
+                "app_description": "Real Voices Real Fun."
+            },
+            {
+                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
+                "app_name": "TTYL | Talk With Friends",
+                "app_description": "Headphones on Stay Connected."
+            }
+        ]
+    },
+    "second_app_group": {
+        "category_heading": "Trending",
+        "heading2": "Social Networking Apps",
+        "item_list": [
+            {
+                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
+                "app_name": "Shit-Lift to music, rest to podcasts",
+                "app_description": "Lift to music rest to podcasts"
+            },
+            {
+                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
+                "app_name": "Bunch Group Video Chat & Games",
+                "app_description": "Play Live Games with Friends"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/bunch-group-video-chat-games/id1294869021",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dd77cd6b9c85cf7587c9d59_Bunch Icon.png",
+                "app_name": "AirtimeL Watch Videos Together",
+                "app_description": "The App for Best Friends"
+            },
+            {
+                "link": "https://brb.chat/?ref=APAS",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe590d5ad64f3fe1836df0_brb twitter logo.png",
+                "app_name": "Spkr. - The Best Podcasts",
+                "app_description": "Always On Audio & Podcasts"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
+                "app_name": "Brb - Voice Messenger",
+                "app_description": "Real Voices Real Fun."
+            },
+            {
+                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
+                "app_name": "TTYL | Talk With Friends",
+                "app_description": "Headphones on Stay Connected."
+            }
+        ]
+    },
+    "third_app_group": {
+        "category_heading": "Trendings",
+        "heading2": "Game & Entertainment Apps",
+        "item_list": [
+            {
+                "link": "https://apps.apple.com/us/app/xbox/id736179781",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
+                "app_name": "Xbox",
+                "app_description": "Entertainment"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
+                "app_name": "Audible",
+                "app_description": "Audiobooks, series & stories"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
+                "app_name": "Anchor",
+                "app_description": "The best way to make a podcast"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
+                "app_name": "WhatsApp Messenger",
+                "app_description": "Simple. Reliable. Secure."
+            }
+        ]
+    },
+    "fourth_app_group": {
+        "category_heading": "Trending",
+        "heading2": "News & Sports Apps",
+        "item_list": [
+            {
+                "link": "https://apps.apple.com/us/app/xbox/id736179781",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
+                "app_name": "Xbox",
+                "app_description": "Entertainment"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
+                "app_name": "Audible",
+                "app_description": "Audiobooks, series & stories"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
+                "app_name": "Anchor",
+                "app_description": "The best way to make a podcast"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
+                "app_name": "WhatsApp Messenger",
+                "app_description": "Simple. Reliable. Secure."
+            }
+        ]
+    },
+    "fifth_app_group": {
+        "category_heading": "Trending",
+        "heading2": "Other Apps",
+        "item_list": [
+            {
+                "link": "https://apps.apple.com/us/app/xbox/id736179781",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
+                "app_name": "Xbox",
+                "app_description": "Entertainment"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
+                "app_name": "Audible",
+                "app_description": "Audiobooks, series & stories"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
+                "app_name": "Anchor",
+                "app_description": "The best way to make a podcast"
+            },
+            {
+                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
+                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
+                "app_name": "WhatsApp Messenger",
+                "app_description": "Simple. Reliable. Secure."
+            }
+        ]
+    }
+}
