@@ -1,7 +1,7 @@
 {
     "first_app_group": {
         "category_heading": "Most Popular",
-        "heading2": "Most Addicting IOS Apps This week",
+        "main_heading": "Most Addicting IOS Apps This week",
         "item_list": [
             {
                 "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
@@ -43,7 +43,7 @@
     },
     "second_app_group": {
         "category_heading": "Trending",
-        "heading2": "Social Networking Apps",
+        "main_heading": "Social Networking Apps",
         "item_list": [
             {
                 "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
@@ -85,7 +85,7 @@
     },
     "third_app_group": {
         "category_heading": "Trendings",
-        "heading2": "Game & Entertainment Apps",
+        "main_heading": "Game & Entertainment Apps",
         "item_list": [
             {
                 "link": "https://apps.apple.com/us/app/xbox/id736179781",
@@ -115,7 +115,7 @@
     },
     "fourth_app_group": {
         "category_heading": "Trending",
-        "heading2": "News & Sports Apps",
+        "main_heading": "News & Sports Apps",
         "item_list": [
             {
                 "link": "https://apps.apple.com/us/app/xbox/id736179781",
@@ -145,7 +145,7 @@
     },
     "fifth_app_group": {
         "category_heading": "Trending",
-        "heading2": "Other Apps",
+        "main_heading": "Other Apps",
         "item_list": [
             {
                 "link": "https://apps.apple.com/us/app/xbox/id736179781",
@@ -172,5 +172,51 @@
                 "app_description": "Simple. Reliable. Secure."
             }
         ]
-    }
+    },
+    "first_advertise": [
+        {
+            "link": "https://techwiser.com/airpods-apps-for-android/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dcb8d3ba77069bdf06661e2_Airpods Pro Android.jpg",
+            "category_heading": "How To",
+            "main_heading": "Experience Airpods On Android",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        },
+        {
+            "link": "https://www.macrumors.com/guide/airpods-pro-tips-and-tricks/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dd7628b81d3e91208e82ea6_Airpods Pro Tips & Tricks Mac Rumors.jpg",
+            "category_heading": "Tips & Tricks",
+            "main_heading": "Top 14 AirPods Pro Tips and Tricks",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        },
+        {
+            "link": "https://techwiser.com/airpods-apps-for-android/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dcb8d3ba77069bdf06661e2_Airpods Pro Android.jpg",
+            "category_heading": "How To",
+            "main_heading": "Experience Airpods On Android",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        }
+    ],
+    "second_advertise": [
+        {
+            "link": "https://techwiser.com/airpods-apps-for-android/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dcb8d3ba77069bdf06661e2_Airpods Pro Android.jpg",
+            "category_heading": "How To",
+            "main_heading": "Experience Airpods On Android",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        },
+        {
+            "link": "https://www.macrumors.com/guide/airpods-pro-tips-and-tricks/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dd7628b81d3e91208e82ea6_Airpods Pro Tips & Tricks Mac Rumors.jpg",
+            "category_heading": "Tips & Tricks",
+            "main_heading": "Top 14 AirPods Pro Tips and Tricks",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        },
+        {
+            "link": "https://techwiser.com/airpods-apps-for-android/",
+            "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7fb363a3264c/5dcb8d3ba77069bdf06661e2_Airpods Pro Android.jpg",
+            "category_heading": "How To",
+            "main_heading": "Experience Airpods On Android",
+            "description": "Best Airpods Apps for Android to Get iPhone Like Experience"
+        }
+    ]
 }

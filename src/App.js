@@ -3,6 +3,8 @@ import React, { Fragment } from "react";
 import "./App.css";
 import logo from "./images/title_logo.png";
 import AppGroup from "./components/app_group.js";
+import AdGroup from "./components/ad_group.js";
+
 import data from "./data";
 const {
     first_app_group,
@@ -10,6 +12,8 @@ const {
     third_app_group,
     fourth_app_group,
     fifth_app_group,
+    first_advertise,
+    second_advertise,
 } = data;
 
 function App() {
@@ -46,114 +50,10 @@ function App() {
             </section>
             <AppGroup {...first_app_group} />
             <AppGroup {...second_app_group} />
-            <section className="wrapper">
-                <div className="main-container main-containter-transparent">
-                    <div className="columns w-row">
-                        <div className="column-1 w-col w-col-4">
-                            <a
-                                href="https://techwiser.com/airpods-apps-for-android/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="blog-item w-inline-block"
-                            >
-                                <div className="blog-header-img"></div>
-                                <div className="div-block-4">
-                                    <h1 className="category-heading">How To</h1>
-                                    <h1 className="heading-4">Experience Airpods On Android</h1>
-                                    <p className="descrip">
-                                        Best Airpods Apps for Android to Get iPhone Like Experience
-                                        <br />
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div className="column-1 w-col w-col-4">
-                            <a
-                                href="https://www.macrumors.com/guide/airpods-pro-tips-and-tricks/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="blog-item w-inline-block"
-                            >
-                                <div className="blog-header-img airpods-pro-image"></div>
-                                <div className="div-block-4">
-                                    <h1 className="category-heading">Tips &amp;&nbsp;Tricks</h1>
-                                    <h1 className="heading-4">
-                                        Top 14 AirPods Pro Tips and Tricks
-                                    </h1>
-                                    <p className="descrip">
-                                        Best Airpods Apps for Android to Get iPhone Like Experience
-                                        <br />
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div className="column-1 column2 w-col w-col-4">
-                            <a
-                                href="https://techwiser.com/airpods-apps-for-android/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="blog-item w-inline-block"
-                            >
-                                <div className="blog-header-img"></div>
-                                <div className="div-block-4">
-                                    <h1 className="category-heading">How To</h1>
-                                    <h1 className="heading-4">Experience Airpods On Android</h1>
-                                    <p className="descrip">
-                                        Best Airpods Apps for Android to Get iPhone Like Experience
-                                        <br />
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <AdGroup item_list={first_advertise} />
             <AppGroup {...third_app_group} />
             <AppGroup {...fourth_app_group} />
-            <section className="wrapper">
-                <div className="main-container main-containter-transparent">
-                    <div className="columns w-row">
-                        <div className="column-1 w-col w-col-6">
-                            <a
-                                href="https://techwiser.com/airpods-apps-for-android/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="blog-item w-inline-block"
-                            >
-                                <div className="blog-header-img"></div>
-                                <div className="div-block-4">
-                                    <h1 className="category-heading">How To</h1>
-                                    <h1 className="heading-4">Experience Airpods On Android</h1>
-                                    <p className="descrip">
-                                        Best Airpods Apps for Android to Get iPhone Like Experience
-                                        <br />
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                        <div className="column-1 column2 w-col w-col-6">
-                            <a
-                                href="https://www.macrumors.com/guide/airpods-pro-tips-and-tricks/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="blog-item w-inline-block"
-                            >
-                                <div className="blog-header-img airpods-pro-image"></div>
-                                <div className="div-block-4">
-                                    <h1 className="category-heading">Tips &amp;&nbsp;Tricks</h1>
-                                    <h1 className="heading-4">
-                                        Top 14 AirPods Pro Tips and Tricks
-                                    </h1>
-                                    <p className="descrip">
-                                        Best Airpods Apps for Android to Get iPhone Like Experience
-                                        <br />
-                                    </p>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            <AdGroup item_list={second_advertise} />
             <AppGroup {...fifth_app_group} />
 
             <footer className="wrapper">
