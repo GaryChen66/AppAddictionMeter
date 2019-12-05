@@ -1,175 +1,151 @@
 {
     "first_app_group": {
-        "category_heading": "Most Popular",
+        "category_heading": "Trending",
         "main_heading": "Most Addicting IOS Apps This week",
         "item_list": [
             {
-                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
-                "app_name": "Shit-Lift to music, rest to podcasts",
-                "app_description": "Lift to music rest to podcasts"
+                "link": "https://apps.apple.com/us/app/8-ball-pool/id543186831",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/af/99/97af9993-5adc-3763-4de1-8d63a90021f1/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/246x0w.png",
+                "app_name": "8 Ball Pool",
+                "app_description": "Play Pool with friends!"
             },
             {
-                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
-                "app_name": "Bunch Group Video Chat & Games",
-                "app_description": "Play Live Games with Friends"
+                "link": "https://apps.apple.com/us/app/netflix/id363590051",
+                "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/c1/db/4ac1db16-2741-c152-87d4-b3a06e4487c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Netflix",
+                "app_description": "Start Watching"
             },
             {
-                "link": "https://apps.apple.com/us/app/bunch-group-video-chat-games/id1294869021",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dd77cd6b9c85cf7587c9d59_Bunch Icon.png",
-                "app_name": "AirtimeL Watch Videos Together",
-                "app_description": "The App for Best Friends"
+                "link": "https://apps.apple.com/us/app/tinder/id547702041",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/15/92/ad1592e7-27db-883e-ae83-b2e7b6d86178/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+                "app_name": "Tinder",
+                "app_description": "Match, Chat & Meet New People"
             },
             {
-                "link": "https://brb.chat/?ref=APAS",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe590d5ad64f3fe1836df0_brb twitter logo.png",
-                "app_name": "Spkr. - The Best Podcasts",
-                "app_description": "Always On Audio & Podcasts"
-            },
-            {
-                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
-                "app_name": "Brb - Voice Messenger",
-                "app_description": "Real Voices Real Fun."
-            },
-            {
-                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
-                "app_name": "TTYL | Talk With Friends",
-                "app_description": "Headphones on Stay Connected."
+                "link": "https://apps.apple.com/us/app/twitter/id333903271",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/28/e6/1b/28e61b2d-3705-bc23-afa9-faf9c4e75c12/ProductionAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Twitter",
+                "app_description": "Chat about what’s happening"
             }
         ]
     },
     "second_app_group": {
-        "category_heading": "Trending",
+        "category_heading": "Most Popular",
         "main_heading": "Social Networking Apps",
         "item_list": [
             {
-                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
-                "app_name": "Shit-Lift to music, rest to podcasts",
-                "app_description": "Lift to music rest to podcasts"
+                "link": "https://apps.apple.com/us/app/facebook/id284882215",
+                "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/77/8d/e4/778de4bb-0630-a808-d4ca-8798275f77e5/Icon-Production-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/246x0w.png",
+                "app_name": "Facebook",
+                "app_description": "#2 in Social Networking"
             },
             {
-                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
-                "app_name": "Bunch Group Video Chat & Games",
-                "app_description": "Play Live Games with Friends"
+                "link": "https://apps.apple.com/us/app/snapchat/id447188370",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/42/ac/87/42ac87b8-744a-80ce-3fae-7b1860b04082/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/246x0w.png",
+                "app_name": "Snapchat",
+                "app_description": "Real friends. Real you"
             },
             {
-                "link": "https://apps.apple.com/us/app/bunch-group-video-chat-games/id1294869021",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dd77cd6b9c85cf7587c9d59_Bunch Icon.png",
-                "app_name": "AirtimeL Watch Videos Together",
-                "app_description": "The App for Best Friends"
+                "link": "https://apps.apple.com/us/app/tiktok-make-your-day/id835599320",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/de/d6/0dded609-ead8-b178-9b0c-f33cf78d16c4/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "TikTok",
+                "app_description": "Real People. Real Videos."
             },
             {
-                "link": "https://brb.chat/?ref=APAS",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe590d5ad64f3fe1836df0_brb twitter logo.png",
-                "app_name": "Spkr. - The Best Podcasts",
-                "app_description": "Always On Audio & Podcasts"
-            },
-            {
-                "link": "https://apps.apple.com/us/app/splitcloud-double-music-player/id1244515007",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dddb1bfe72ac754203f962d_Splitcloud app logo.png",
-                "app_name": "Brb - Voice Messenger",
-                "app_description": "Real Voices Real Fun."
-            },
-            {
-                "link": "https://apps.apple.com/gb/app/shift-lift-learn/id1406183218",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5ddc1a9fb82421926bbcd246_Lift logo.png",
-                "app_name": "TTYL | Talk With Friends",
-                "app_description": "Headphones on Stay Connected."
+                "link": "https://apps.apple.com/us/app/instagram/id389801252",
+                "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/1d/99/3a1d99de-ab81-cc44-815e-59032e50381e/Prod-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Instagram",
+                "app_description": "#2 in Photo & Video"
             }
         ]
     },
     "third_app_group": {
-        "category_heading": "Trendings",
+        "category_heading": "Most Popular",
         "main_heading": "Game & Entertainment Apps",
         "item_list": [
             {
-                "link": "https://apps.apple.com/us/app/xbox/id736179781",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
-                "app_name": "Xbox",
-                "app_description": "Entertainment"
+                "link": "https://apps.apple.com/us/app/words-with-friends-word-game/id804379658",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/9c/49/a79c4983-1add-94c7-1c79-27e758dadac3/app_icon.Words2-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+                "app_name": "Words With Friends",
+                "app_description": "Test your vocabulary skills!"
             },
             {
-                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
-                "app_name": "Audible",
-                "app_description": "Audiobooks, series & stories"
+                "link": "https://apps.apple.com/us/app/candy-crush-saga/id553834731",
+                "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/3a/ee/d93aee39-81b4-534e-9beb-baf24bfa89f1/AppIcon-0-1x_U007emarketing-0-85-220-7.png/246x0w.png",
+                "app_name": "Candy Crush Saga",
+                "app_description": "Win levels in match 3 puzzle"
             },
             {
-                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
-                "app_name": "Anchor",
-                "app_description": "The best way to make a podcast"
+                "link": "https://apps.apple.com/us/app/marvel-strike-force-squad-rpg/id1292952049",
+                "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/26/1f/d6261f60-8838-6fec-632e-a2c8486d515e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Marvel Strike Force",
+                "app_description": "Super Hero Teams Assemble"
             },
             {
-                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
-                "app_name": "WhatsApp Messenger",
-                "app_description": "Simple. Reliable. Secure."
+                "link": "https://apps.apple.com/us/app/om-nom-merge/id1483037067",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/61/43/b06143f5-7f3c-2e7a-04ad-3eba95238bf5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+                "app_name": "Om Nom: Merge",
+                "app_description": "Merge Cut the Rope characters"
             }
         ]
     },
     "fourth_app_group": {
-        "category_heading": "Trending",
+        "category_heading": "Most Popular",
         "main_heading": "News & Sports Apps",
         "item_list": [
             {
-                "link": "https://apps.apple.com/us/app/xbox/id736179781",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
-                "app_name": "Xbox",
-                "app_description": "Entertainment"
+                "link": "https://apps.apple.com/us/app/theskimm/id1034995058",
+                "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/8a/8a/9d8a8aae-8eb2-a136-2e5b-921e0e9fe137/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "theSkimm",
+                "app_description": "Making it easier to live smart"
             },
             {
-                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
-                "app_name": "Audible",
-                "app_description": "Audiobooks, series & stories"
+                "link": "https://apps.apple.com/us/app/medium/id828256236",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/68/0e/ab680efe-611d-2355-5f7c-ebaec0782690/MediumIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Medium",
+                "app_description": "Smart stories & ideas. No ads."
             },
             {
-                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
-                "app_name": "Anchor",
-                "app_description": "The best way to make a podcast"
+                "link": "https://apps.apple.com/us/app/npr/id324906251",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/0f/5e/ce0f5edc-8e2e-0437-8fcc-bc0e82f15ce4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "NPR",
+                "app_description": "NPR"
             },
             {
-                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
-                "app_name": "WhatsApp Messenger",
-                "app_description": "Simple. Reliable. Secure."
+                "link": "https://apps.apple.com/us/app/dazn-live-boxing-mma-mlb/id1129523589",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/42/b0/d7/42b0d781-2a50-b187-6605-3dab859edf9c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Live Boxing, MMA & MLB",
+                "app_description": "Fight Sports Streaming"
             }
         ]
     },
     "fifth_app_group": {
-        "category_heading": "Trending",
+        "category_heading": "Most Popular",
         "main_heading": "Other Apps",
         "item_list": [
             {
-                "link": "https://apps.apple.com/us/app/xbox/id736179781",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dcb908da770698d146679b1_xbox logo.png",
-                "app_name": "Xbox",
-                "app_description": "Entertainment"
+                "link": "https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/54/2d/cc/542dcc0f-c77c-5c24-7b01-aaa6e0b99caf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "YouTube",
+                "app_description": "Videos, Music and Live Streams"
             },
             {
-                "link": "https://apps.apple.com/us/app/audible-audiobooks-originals/id379693831",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56955ad64f892388cc57_audible logo.png",
-                "app_name": "Audible",
-                "app_description": "Audiobooks, series & stories"
+                "link": "https://apps.apple.com/us/app/fanduel-sportsbook-betting/id1413721906",
+                "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/64/7d/19/647d19fa-af2a-dfb6-7938-7d223e6472a2/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.png",
+                "app_name": "Fanduel Sportsbook",
+                "app_description": "Sports betting - IN, PA, NJ"
             },
             {
-                "link": "https://apps.apple.com/us/app/anchor/id1056182234",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbf56159bf13e81c2528bf9_anchor logo.jpg",
-                "app_name": "Anchor",
-                "app_description": "The best way to make a podcast"
+                "link": "https://apps.apple.com/us/app/espn-fantasy-sports/id555376968",
+                "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/85/b6/a8/85b6a8a9-717d-c995-8e2e-e8862d2d5df4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "ESPN Fantasy Sports",
+                "app_description": "Football, Basketball, & Streak"
             },
             {
-                "link": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997",
-                "image": "https://uploads-ssl.webflow.com/5dbe53da15cb7f79bfa32656/5dbe53da15cb7ff031a32667_whatsapp.png",
-                "app_name": "WhatsApp Messenger",
-                "app_description": "Simple. Reliable. Secure."
+                "link": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
+                "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/3b/6c/893b6c9d-4ba5-4416-4b6e-a1e7f26a796f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+                "app_name": "Spotify",
+                "app_description": "Discover the latest songs"
             }
         ]
     },

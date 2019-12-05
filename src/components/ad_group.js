@@ -11,7 +11,7 @@ class AdGroup extends Component {
                             var class_string = "column-1 w-col w-col-4";
                             if (i === 2) class_string = class_string + " column2";
                             return (
-                                <div className={class_string}>
+                                <div key={i} className={class_string}>
                                     <a
                                         href={item.link}
                                         rel="noopener noreferrer"
