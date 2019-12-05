@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appstore/static/css/main.e72f111f.chunk.css",
+    "main.js": "/appstore/static/js/main.7b9c8d5b.chunk.js",
+    "main.js.map": "/appstore/static/js/main.7b9c8d5b.chunk.js.map",
+    "runtime-main.js": "/appstore/static/js/runtime-main.b5b3112c.js",
+    "runtime-main.js.map": "/appstore/static/js/runtime-main.b5b3112c.js.map",
+    "static/js/2.89067632.chunk.js": "/appstore/static/js/2.89067632.chunk.js",
+    "static/js/2.89067632.chunk.js.map": "/appstore/static/js/2.89067632.chunk.js.map",
+    "index.html": "/appstore/index.html",
+    "precache-manifest.fcecbf131dd9baf8313b1aed1e805e14.js": "/appstore/precache-manifest.fcecbf131dd9baf8313b1aed1e805e14.js",
+    "service-worker.js": "/appstore/service-worker.js",
+    "static/css/main.e72f111f.chunk.css.map": "/appstore/static/css/main.e72f111f.chunk.css.map",
+    "static/media/get_icon.png": "/appstore/static/media/get_icon.8e899864.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b3112c.js",
+    "static/js/2.89067632.chunk.js",
+    "static/css/main.e72f111f.chunk.css",
+    "static/js/main.7b9c8d5b.chunk.js"
+  ]
+}
